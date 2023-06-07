@@ -47,13 +47,13 @@
       {
       "pregunta": "cual es la ciudad mas grande de colombia",
       "opcionesRespuesta": ["cartagena","cucuta","barranquilla","bogota"],
-      "respuestaCorrecta": "bogota",
+      "respuestaCorrecta": 3,
       "explicacion": "esto se debe a que es la de mayor extencion territorial"
     },
     {
       "pregunta": "cuantos parques nacionales existen en colombia",
       "opcionesRespuesta": [10,56,38,59],
-      "respuestaCorrecta": 59,
+      "respuestaCorrecta": 3,
       "explicacion": "esto se debe a que existe mucha biodiversidad en el pais"
     },
     {
@@ -65,14 +65,14 @@
     {
       "pregunta": "¿cuantos departamentos tiene colombia?",
       "opcionesRespuesta": [32,50,43,28],
-      "respuestaCorrecta": 32,
+      "respuestaCorrecta": 0,
       "explicacion": "son la cantidad registrada hasta el momento"
     },  
     {
       "pregunta": 
        "¿En qué año se proclama oficialmente la independencia de Colombia?",
       "opcionesRespuesta": [1800,1810,1950,1928],
-      "respuestaCorrecta": 1810,
+      "respuestaCorrecta": 1,
       "explicacion": "inicio proceso de independencia"
     }
   ]
