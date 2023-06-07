@@ -1,0 +1,141 @@
+[
+
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+},
+
+
+{
+  "nombre": "Next Lang",
+  "direccion": "calle principal 123",
+  "ciudad": "Villa Carlos Paz",
+  "curso ingles avanzado": {
+    "publico": "avanzado",
+    "duracion": "20 semanas",
+    "precio": 400
+  },
+  "curso italiano basico": {
+      "publico": "principiante",
+      "duracion": "5 semanas",
+      "precio": 120
+  },
+  "telefono n1": "156734756",
+  "tel 2": "154756234"
+},
+
+{
+  "nombreEquipo": "unidos",
+  "númeroIntegrantes": 4,
+  "discord": "bootcamps.com"
+},
+
+{
+  "preguntas":[ 
+      {
+      "pregunta": "cual es la ciudad mas grande de colombia",
+      "opcionesRespuesta": ["cartagena","cucuta","barranquilla","bogota"],
+      "respuestaCorrecta": "bogota",
+      "explicacion": "esto se debe a que es la de mayor extencion territorial"
+    },
+    {
+      "pregunta": "cuantos parques nacionales existen en colombia",
+      "opcionesRespuesta": [10,56,38,59],
+      "respuestaCorrecta": 59,
+      "explicacion": "esto se debe a que existe mucha biodiversidad en el pais"
+    },
+    {
+      "pregunta": "cual es el lago mas grande de colombia",
+      "opcionesRespuesta": ["amazonas","magdalena","cauca","tota"],
+      "respuestaCorrecta": "tota",
+      "explicacion": "los demas son rios"
+    },  
+    {
+      "pregunta": "¿cuantos departamentos tiene colombia?",
+      "opcionesRespuesta": [32,50,43,28],
+      "respuestaCorrecta": 32,
+      "explicacion": "son la cantidad registrada hasta el momento"
+    },  
+    {
+      "pregunta": 
+       "¿En qué año se proclama oficialmente la independencia de Colombia?",
+      "opcionesRespuesta": [1800,1810,1950,1928],
+      "respuestaCorrecta": 1810,
+      "explicacion": "inicio proceso de independencia"
+    }
+  ]
+},
+
+
+
+  
+  {
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la capital de Colombia?",
+      "opciones": [
+        "Bogotá",
+        "Medellín",
+        "Cali",
+        "Cartagena"
+      ],
+      "respuesta": "Bogotá"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de Colombia?",
+      "opciones": [
+        "Magdalena",
+        "Cauca",
+        "Amazonas",
+        "Guaviare"
+      ],
+      "respuesta": "Magdalena"
+    },
+    {
+      "pregunta": "¿En qué año se independizó Colombia?",
+      "opciones": [
+        "1810",
+        "1819",
+        "1821",
+        "1830"
+      ],
+      "respuesta": "1819"
+    },
+    {
+      "pregunta": "¿Cuál es el plato típico de Colombia?",
+      "opciones": [
+        "Bandeja paisa",
+        "Ajiaco",
+        "Sancocho",
+        "Arepa"
+      ],
+      "respuesta": "Bandeja paisa"
+    },
+    {
+      "pregunta": "¿Quién es el autor de Cien años de soledad?",
+      "opciones": [
+        "Gabriel García Márquez",
+        "Jorge Luis Borges",
+        "Pablo Neruda",
+        "Mario Vargas Llosa"
+      ],
+      "respuesta": "Gabriel García Márquez"
+    }
+  ]
+}
+
+
+]
+
